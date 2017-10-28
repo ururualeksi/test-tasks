@@ -2,7 +2,8 @@
 Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqIMtpYh_ITAgkc/edit#
 
 ## Task 1
-<img src="task1/task1-screenshot.png" width="250"><img src="task1/button-click-alert.png" width="250"><br>
+<img src="task1/task1-screenshot.png" width="250"><br>
+<img src="task1/button-click-alert.png" width="250"><br>
 [To the repo ->](https://github.com/ururualeksi/test-tasks/tree/master/task1)
 <br>
 ## Task 2
@@ -31,7 +32,5 @@ Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqI
 
 ## Task 4
 <img src="task4.png" width="250"><br>
-<br>
-
 ## Task 5
 <img src="task5.png" width="350"><br>
