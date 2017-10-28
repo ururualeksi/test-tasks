@@ -6,7 +6,7 @@ Solutions to Gosha's test tasks
 [To the repo ->](https://github.com/ururualeksi/test-tasks/tree/master/task1)
 
 ## Task 2
-<img src="task2.png" width="600"><br>
+<img src="task2.png" width="750"><br>
 
 ## Task 3
 ```javascript
