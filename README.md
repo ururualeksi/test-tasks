@@ -1,5 +1,5 @@
-# test-tasks
-Solutions to Gosha's test tasks
+# Georgiy's test tasks!
+Solutions
 
 ## Task 1
 <img src="task1/task1-screenshot.png" width="250"><br>
