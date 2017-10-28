@@ -29,7 +29,7 @@ Solutions to Gosha's test tasks
 ```
 
 ## Task 4
-<img src="task4.png" width="200"><br>
+<img src="task4.png" width="250"><br>
 
 ## Task 5
-<img src="task5.png" width="400"><br>
+<img src="task5.png" width="350"><br>
