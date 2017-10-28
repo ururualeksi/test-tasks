@@ -2,11 +2,11 @@
 Solutions to Gosha's test tasks
 
 ## Task 1
-<img src="https://github.com/ururualeksi/test-tasks/blob/master/task1/task1-screenshot.png" width="250"><br>
+<img src="task1/task1-screenshot.png" width="250"><br>
 [To the repo ->](https://github.com/ururualeksi/test-tasks/tree/master/task1)
 
 ## Task 2
-<img src="https://github.com/ururualeksi/test-tasks/blob/master/task2.png" width="600"><br>
+<img src="task2.png" width="600"><br>
 
 ## Task 3
 ```javascript
@@ -28,11 +28,8 @@ Solutions to Gosha's test tasks
 
 ```
 
-## Task 2
+## Task 4
 <img src="task4.png" width="200"><br>
 
-## Task 2
-<img src="https://github.com/ururualeksi/test-tasks/blob/master/task2.png" width="600"><br>
-
-## Task 2
-<img src="https://github.com/ururualeksi/test-tasks/blob/master/task2.png" width="600"><br>
+## Task 5
+<img src="task5.png" width="400"><br>
