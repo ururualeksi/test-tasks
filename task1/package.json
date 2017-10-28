@@ -1,0 +1,27 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo js/app.js --live"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependenciescl": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "budo": "^10.0.4",
+    "watchify": "^3.9.0"
+  },
+  "babel": {
+    "presets": ["env"]
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  }
+}
