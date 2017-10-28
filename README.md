@@ -1,5 +1,5 @@
 # Georgiy's test tasks!
-Solutions
+Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqIMtpYh_ITAgkc/edit#
 
 ## Task 1
 <img src="task1/task1-screenshot.png" width="250"><br>
