@@ -28,8 +28,10 @@ Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqI
 
 ```
 <br>
+
 ## Task 4
 <img src="task4.png" width="250"><br>
 <br>
+
 ## Task 5
 <img src="task5.png" width="350"><br>
