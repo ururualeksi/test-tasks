@@ -9,7 +9,7 @@ Solutions to Gosha's test tasks
 <img src="https://github.com/ururualeksi/test-tasks/blob/master/task2.png" width="600"><br>
 
 ## Task 3
-```
+```javascript
 (function montypython(count) {
   var s = '';
 
