@@ -5,6 +5,9 @@ Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqI
 <img src="task1/task1-screenshot.png" width="250"><img src="task1/button-click-alert.png" width="250"><br>
 [To the repo ->](https://github.com/ururualeksi/test-tasks/tree/master/task1)
 
+
+
+
 ## Task 2
 <img src="task2.png" width="750"><br>
 
