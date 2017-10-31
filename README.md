@@ -40,8 +40,8 @@ for (var i = 2; i < 196; i++) {
   let res = min2 + min1 + 42;
   min2 = min1;
   min1 = res;
-  console.log(res);
 }
+console.log(res);
 
 ```
 <img src="task4.png" width="250"><br>
