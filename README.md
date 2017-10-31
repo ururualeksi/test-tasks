@@ -31,6 +31,19 @@ Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqI
 <br>
 
 ## Task 4
+```javascript
+
+let min2 = 0;
+let min1 = 1;
+
+for (var i = 2; i < 196; i++) {
+  let res = min2 + min1 + 42;
+  min2 = min1;
+  min1 = res;
+  console.log(res);
+}
+
+```
 <img src="task4.png" width="250"><br>
 ## Task 5
 <img src="task5.png" width="350"><br>
