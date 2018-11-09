@@ -35,9 +35,10 @@ Solutions to https://docs.google.com/document/d/10kAifjCE0-J6vBh5GxyZ98I-xFDUsqI
 
 let min2 = 0;
 let min1 = 1;
+let res;
 
 for (let i = 2; i < 196; i++) {
-  let res = min2 + min1 + 42;
+  res = min2 + min1 + 42;
   min2 = min1;
   min1 = res;
 }
